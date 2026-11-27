@@ -1,0 +1,13 @@
+promo_id,promo_name,brand,start_date,end_date,extra_discount_pct
+PR01,Літо з Coca-Cola,Coca-Cola,2024-06-01,2024-07-31,0.08
+PR02,Новорічна вантажівка,Coca-Cola,2024-12-01,2024-12-31,0.06
+PR03,Burn — 2+1 у HoReCa,Burn,2025-02-01,2025-03-15,0.12
+PR04,Costa Coffee — запуск,Costa Coffee,2025-03-01,2025-04-30,0.15
+PR05,Літо з Coca-Cola,Coca-Cola,2025-06-01,2025-07-31,0.08
+PR06,Zero Sugar — дегустації,Coca-Cola Zero Sugar,2025-04-01,2025-05-31,0.1
+PR07,Fanta — шкільний сезон,Fanta,2025-08-15,2025-09-30,0.1
+PR08,Новорічна вантажівка,Coca-Cola,2025-12-01,2025-12-31,0.06
+PR09,Monster — запуск у регіонах,Monster,2026-03-01,2026-04-30,0.15
+PR10,FuzeTea — літо,FuzeTea,2026-05-15,2026-07-15,0.12
+PR11,Літо з Coca-Cola,Coca-Cola,2026-06-01,2026-07-31,0.08
+PR12,JD & Coca-Cola — літні тераси,Jack Daniel's & Coca-Cola,2026-06-01,2026-08-31,0.1
